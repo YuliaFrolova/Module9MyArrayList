@@ -1,10 +1,11 @@
 
+import java.util.ArrayDeque;
 import java.util.PriorityQueue;
 import java.util.Queue;
 
 public class MyQueue {
     public static void main(String[] args) {
-        Queue<Integer> numbers = new PriorityQueue<>();
+        Queue<Integer> numbers = new ArrayDeque<>();
         numbers.add(16);
         numbers.add(117);
         numbers.add(9872567);

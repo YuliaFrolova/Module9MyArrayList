@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3eb86fa2-9968-4739-8b97-9b269f84d775" name="Changes" comment="Added class MyLinkedList" />
+    <list default="true" id="3eb86fa2-9968-4739-8b97-9b269f84d775" name="Changes" comment="Added class MyQueue">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyQueue.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,11 +61,19 @@
       <option name="project" value="LOCAL" />
       <updated>1687427351898</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added class MyQueue">
+      <created>1687428111488</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1687428111488</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added class MyLinkedList" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added class MyLinkedList" />
+    <MESSAGE value="Added class MyQueue" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added class MyQueue" />
   </component>
 </project>
