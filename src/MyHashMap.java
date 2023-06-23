@@ -10,9 +10,8 @@ public class MyHashMap {
         monthAndNumber.put("May", 5);
         monthAndNumber.put("Summer", 3);
         monthAndNumber.put("June", 6);
-        monthAndNumber.put("July", 9);
-        monthAndNumber.put("August", 8);
         monthAndNumber.put("July", 7);
+        monthAndNumber.put("August", 8);
         monthAndNumber.put("September", 9);
         monthAndNumber.put("October", 10);
         monthAndNumber.put("November", 11);
